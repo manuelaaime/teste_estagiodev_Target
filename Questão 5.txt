@@ -1,0 +1,4 @@
+Questão 5:
+O primeiro passo é ligar o primeiro interruptor e deixar aceso por alguns minutos.
+Depois desligar o interruptor 1 e ligar o segundo interruptor.
+Agora tem que ir para sala das lâmpadas, a que estiver ligada é do segundo interruptor, a que estiver quente e desligada é do primeiro interruptor, e a que estiver fria e desligada do terceiro interruptor.
